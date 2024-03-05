@@ -1,0 +1,10 @@
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\bin\Debug\iranyitoszam.exe.config
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\bin\Debug\iranyitoszam.exe
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\bin\Debug\iranyitoszam.pdb
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\obj\Debug\iranyitoszam.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\obj\Debug\iranyitoszam.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\obj\Debug\iranyitoszam.csproj.CopyComplete
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\obj\Debug\iranyitoszam.exe
+C:\Users\hollik.evelin\Desktop\Boros\rest_api\iranyitoszam\iranyitoszam\obj\Debug\iranyitoszam.pdb

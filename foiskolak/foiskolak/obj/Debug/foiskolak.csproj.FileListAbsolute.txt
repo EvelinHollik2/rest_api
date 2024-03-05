@@ -1,0 +1,10 @@
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\bin\Debug\foiskolak.exe.config
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\bin\Debug\foiskolak.exe
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\bin\Debug\foiskolak.pdb
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\obj\Debug\foiskolak.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\obj\Debug\foiskolak.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\obj\Debug\foiskolak.csproj.CopyComplete
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\obj\Debug\foiskolak.exe
+C:\Users\hollik.evelin\Desktop\Boros\rest api\foiskolak\foiskolak\obj\Debug\foiskolak.pdb
